@@ -2,3 +2,11 @@
 * Image of hiono
 
 [[https://hub.docker.com/r/hiono/texlive/builds/bw3g6qttvppqzhwibkxqr8a/][hino/texlive]] on DockerHub
+
+* Require
+
+- latexmk
+- bibtex
+- minted
+- XeTex (sometimes?)
+- science stuff (tikZ, siunitx, ...)
